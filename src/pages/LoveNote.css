@@ -1,0 +1,25 @@
+.love-note {
+    background-color: #f9f9f9;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+.love-note h1 {
+    color: #e74c3c;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.love-note p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.love-note .signature {
+    margin-top: 20px;
+    font-style: italic;
+    text-align: right;
+}
